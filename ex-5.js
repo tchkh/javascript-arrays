@@ -22,3 +22,6 @@ const employees = [
 ];
 
 // Start coding here
+delete employees[3]
+const updatedEmployees = employees
+console.log(employees);
