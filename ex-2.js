@@ -15,9 +15,9 @@ let alex;
 let alexHobbies;
 let alexAndJamesAge;
 
-alex = employees[1].name;
-alexHobbies = employees[1].hobbies;
-alexAndJamesAge = employees[0].age + employees[1].age;
+alex=employees[1].name
+alexHobbies=employees[1].hobbies
+alexAndJamesAge=employees[0].age+employees[1].age
 
 console.log(alex);
 console.log(alexHobbies);
