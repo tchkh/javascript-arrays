@@ -15,13 +15,12 @@ const employees = [
     hobbies: ["Shopping", "Reading novels"],
   },
   {
-    name: "Kody",
+    name: "Kody",//Show undefined after delete
     age: 19,
-    hobbies: ["Computer games", "Wakeboard"],
+    hobbies: ["Computer games", "Wakeboard"], 
   },
 ];
 
 // Start coding here
 delete employees[3]
-const updatedEmployees = employees
 console.log(employees);
